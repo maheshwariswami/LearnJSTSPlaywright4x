@@ -23,3 +23,8 @@ console.log(0/0); // Output: NaN
 console.log(typeof infinity); // Output: "number"
 console.log("'hello'/2"); // Output: NaN
 console.log(typeof NaN); // Output: "number"
+
+let test=undefined
+console.log(test);
+console.log(typeof test); // Output: "undefined"
+// undefined is not literal , its read only property.
