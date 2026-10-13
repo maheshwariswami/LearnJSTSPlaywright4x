@@ -20,10 +20,21 @@
 // Which of these is a valid JavaScript variable name?
 
 
-let var1 =$testData_2
+// let var1 =$testData_2
 
-let var2 =test-case
+/* let var2 =test-case
 
 let var3 =2ndAttempt
 
-let let
+let let */
+
+// const browsers = ["chromium", "firefox"];
+// for (const b in browsers) {
+//   console.log(b);
+// }
+
+const codes = [200, 500, 201];
+codes.forEach((code) => {
+  if (code === 500) return;
+  console.log(code);
+});
