@@ -1,0 +1,9 @@
+let [first , second,third] = [10,20,30]
+console.log(first)
+console.log(second)
+console.log(third)
+console.log("---------------------------------------")
+let [a,b,...arr] = [10,11,12,13,14,15]
+console.log(a)
+console.log(b)
+console.log(arr)
