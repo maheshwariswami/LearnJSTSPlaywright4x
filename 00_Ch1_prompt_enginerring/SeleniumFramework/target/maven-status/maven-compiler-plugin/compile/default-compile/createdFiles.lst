@@ -1,0 +1,9 @@
+com\salesforce\reports\ExtentTestManager.class
+com\salesforce\utils\ConfigReader.class
+com\salesforce\utils\ScreenshotUtils.class
+com\salesforce\reports\ExtentReportManager.class
+com\salesforce\base\BasePage.class
+com\salesforce\constants\FrameworkConstants.class
+com\salesforce\driver\DriverFactory.class
+com\salesforce\exceptions\FrameworkException.class
+com\salesforce\pages\LoginPage.class
